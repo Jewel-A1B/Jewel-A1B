@@ -34,7 +34,7 @@ Check out more on my [GitHub repositories](https://github.com/Jewel-A1B).
 ### 📫 **How to Reach Me**
 Feel free to connect with me :  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrjewel503@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafizur-rahman-jewel-60b259297/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-r-jewel-a1b7d3/)  
 
 ---
 
