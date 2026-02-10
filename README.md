@@ -1,12 +1,13 @@
 # Hi, I'm Jewel <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="Waving hand" width="30"/>
 
-I am pursuing a **Computer Science and Engineering (CSE)** degree at **Hajee Mohammad Danesh Science & Technology University**, where I’m establishing a strong foundation in software development principles and technologies.
+I am pursuing a **Computer Science and Engineering (CSE)** degree at **Hajee Mohammad Danesh Science & Technology University**, building a strong foundation in software development principles and technologies.
 
-I am an **Aspiring Full Stack Developer** , learned the **MERN stack (MongoDB, Express.js, React, Node.js)**, with a passion for building **responsive**, **accessible**, and **scalable** web applications that deliver exceptional user experiences.
+I am an **Aspiring Full Stack Developer** with hands-on experience in the **MERN stack (MongoDB, Express.js, React, Node.js)**, passionate about creating **responsive**, **accessible**, and **scalable** web applications.
 
-I am actively enhancing my **Data Structures and Algorithms (DSA)** proficiency through consistent practice on **LeetCode**, sharpening my analytical thinking and problem-solving capabilities.
+I am actively improving my **Data Structures and Algorithms (DSA)** skills through **LeetCode**, enhancing my problem-solving and analytical thinking.
 
-My career goal is to work as a **software engineer** at a leading tech company..InshaAllah.
+Currently, my goal is to **build and launch my own projects**, exploring new ideas and turning them into practical applications. 🚀
+
 
 
 ---
