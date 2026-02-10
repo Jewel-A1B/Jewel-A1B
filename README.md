@@ -2,7 +2,7 @@
 
 I am pursuing a **Computer Science and Engineering (CSE)** degree at **Hajee Mohammad Danesh Science & Technology University**, where I’m establishing a strong foundation in software development principles and technologies.
 
-I am an **Aspiring Full Stack Developer** currently learning the **MERN stack (MongoDB, Express.js, React, Node.js)**, with a passion for building **responsive**, **accessible**, and **scalable** web applications that deliver exceptional user experiences.
+I am an **Aspiring Full Stack Developer** , learned the **MERN stack (MongoDB, Express.js, React, Node.js)**, with a passion for building **responsive**, **accessible**, and **scalable** web applications that deliver exceptional user experiences.
 
 I am actively enhancing my **Data Structures and Algorithms (DSA)** proficiency through consistent practice on **LeetCode**, sharpening my analytical thinking and problem-solving capabilities.
 
