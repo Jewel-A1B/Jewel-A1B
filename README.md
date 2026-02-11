@@ -15,7 +15,7 @@ Currently, my goal is to **build and launch my own projects**, exploring new ide
 ### 🚀 **Featured Projects**
 Here are some of the projects I’ve worked on:
 
-1. [**StayNest**]((https://staynest-a1b.onrender.com/listings)) – A vacation rental platform connecting guests with hosts offering unique stays.
+1. [**StayNest**](https://staynest-a1b.onrender.com/listings) – A vacation rental platform connecting guests with hosts offering unique stays.
 2. [**Spotify**](https://jewel-a1b.github.io/spotifyHomePage/) – A Spotify-themed homepage design showcasing music and artists.
 3. [**PetAdopt**](https://jewel-a1b.github.io/petAdopt/) – A page for pet adoption with featured animals and information.
 
